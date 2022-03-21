@@ -4,4 +4,4 @@
 
 > *Hazırlamış olduğum ödeve aşağıdaki linkten ulaşabilirsiniz.*
 
-- **Website:** []()
+- **Website:** [https://muhammetaksu.github.io/css-task-03/](https://muhammetaksu.github.io/css-task-03/)
